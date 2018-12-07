@@ -460,13 +460,13 @@
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/light_gray_concrete_powder": {
+  "minecraft:recipes/building_blocks/light_blue_concrete_powder": {
     "criteria": {
       "has_sand": "2018-11-23 20:27:48 +0800"
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/light_blue_concrete_powder": {
+  "minecraft:recipes/building_blocks/light_gray_concrete_powder": {
     "criteria": {
       "has_sand": "2018-11-23 20:27:48 +0800"
     },
@@ -645,6 +645,12 @@
   "minecraft:recipes/transportation/minecart": {
     "criteria": {
       "has_iron_ingot": "2018-11-23 21:34:28 +0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/yellow_dye_from_sunflower": {
+    "criteria": {
+      "has_double_plant": "2018-12-08 01:58:43 +0800"
     },
     "done": true
   },
@@ -876,13 +882,13 @@
     },
     "done": true
   },
-  "minecraft:recipes/tools/diamond_pickaxe": {
+  "minecraft:recipes/tools/diamond_hoe": {
     "criteria": {
       "has_diamond": "2018-11-23 23:18:52 +0800"
     },
     "done": true
   },
-  "minecraft:recipes/tools/diamond_hoe": {
+  "minecraft:recipes/tools/diamond_pickaxe": {
     "criteria": {
       "has_diamond": "2018-11-23 23:18:52 +0800"
     },
@@ -932,6 +938,12 @@
   "minecraft:recipes/redstone/redstone_block": {
     "criteria": {
       "has_at_least_9_redstone": "2018-11-23 23:15:46 +0800"
+    },
+    "done": true
+  },
+  "minecraft:adventure/trade": {
+    "criteria": {
+      "traded": "2018-12-08 00:42:11 +0800"
     },
     "done": true
   },
@@ -1109,6 +1121,12 @@
     },
     "done": true
   },
+  "minecraft:husbandry/tame_an_animal": {
+    "criteria": {
+      "tamed_animal": "2018-12-08 01:41:30 +0800"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/wooden_axe": {
     "criteria": {
       "has_the_recipe": "2018-11-23 13:29:04 +0800"
@@ -1202,6 +1220,12 @@
   "minecraft:recipes/misc/light_gray_dye_from_gray_bonemeal": {
     "criteria": {
       "has_bonemeal": "2018-11-24 14:44:04 +0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/leather": {
+    "criteria": {
+      "has_rabbit_hide": "2018-12-07 23:54:54 +0800"
     },
     "done": true
   },
@@ -1598,6 +1622,7 @@
       "minecraft:taiga_hills": "2018-11-25 19:15:49 +0800",
       "minecraft:desert": "2018-11-25 18:47:14 +0800",
       "minecraft:deep_lukewarm_ocean": "2018-11-25 18:17:47 +0800",
+      "minecraft:savanna_plateau": "2018-12-08 00:31:22 +0800",
       "minecraft:beach": "2018-11-24 03:09:30 +0800",
       "minecraft:river": "2018-11-23 23:53:45 +0800",
       "minecraft:lukewarm_ocean": "2018-11-25 18:32:59 +0800",

@@ -59,6 +59,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/spruce_door": {
+    "criteria": {
+      "has_planks": "2018-12-08 20:08:35 +0800"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/wheat": {
     "criteria": {
       "has_at_least_9_wheat": "2018-11-24 18:02:38 +0800"
@@ -104,6 +110,12 @@
   "minecraft:recipes/building_blocks/yellow_concrete_powder": {
     "criteria": {
       "has_sand": "2018-11-23 20:27:48 +0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/spruce_fence_gate": {
+    "criteria": {
+      "has_planks": "2018-12-08 20:08:35 +0800"
     },
     "done": true
   },
@@ -224,6 +236,12 @@
   "minecraft:recipes/decorations/black_bed_from_white_bed": {
     "criteria": {
       "has_bed": "2018-11-24 03:19:00 +0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/spruce_button": {
+    "criteria": {
+      "has_planks": "2018-12-08 20:08:35 +0800"
     },
     "done": true
   },
@@ -460,13 +478,13 @@
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/light_gray_concrete_powder": {
+  "minecraft:recipes/building_blocks/light_blue_concrete_powder": {
     "criteria": {
       "has_sand": "2018-11-23 20:27:48 +0800"
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/light_blue_concrete_powder": {
+  "minecraft:recipes/building_blocks/light_gray_concrete_powder": {
     "criteria": {
       "has_sand": "2018-11-23 20:27:48 +0800"
     },
@@ -876,13 +894,19 @@
     },
     "done": true
   },
-  "minecraft:recipes/tools/diamond_pickaxe": {
+  "minecraft:recipes/decorations/spruce_fence": {
+    "criteria": {
+      "has_planks": "2018-12-08 20:08:35 +0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/diamond_hoe": {
     "criteria": {
       "has_diamond": "2018-11-23 23:18:52 +0800"
     },
     "done": true
   },
-  "minecraft:recipes/tools/diamond_hoe": {
+  "minecraft:recipes/tools/diamond_pickaxe": {
     "criteria": {
       "has_diamond": "2018-11-23 23:18:52 +0800"
     },
@@ -962,6 +986,12 @@
   "minecraft:recipes/decorations/pink_stained_glass_pane": {
     "criteria": {
       "has_glass": "2018-11-23 20:41:44 +0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/spruce_stairs": {
+    "criteria": {
+      "has_planks": "2018-12-08 20:08:35 +0800"
     },
     "done": true
   },
@@ -1355,6 +1385,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/spruce_slab": {
+    "criteria": {
+      "has_planks": "2018-12-08 20:08:35 +0800"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/bookshelf": {
     "criteria": {
       "has_book": "2018-11-24 14:18:39 +0800"
@@ -1487,6 +1523,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/spruce_pressure_plate": {
+    "criteria": {
+      "has_planks": "2018-12-08 20:08:35 +0800"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/coal": {
     "criteria": {
       "has_at_least_9_coal": "2018-11-23 20:59:48 +0800"
@@ -1598,6 +1640,7 @@
       "minecraft:taiga_hills": "2018-11-25 19:15:49 +0800",
       "minecraft:desert": "2018-11-25 18:47:14 +0800",
       "minecraft:deep_lukewarm_ocean": "2018-11-25 18:17:47 +0800",
+      "minecraft:savanna_plateau": "2018-12-08 20:00:33 +0800",
       "minecraft:beach": "2018-11-24 03:09:30 +0800",
       "minecraft:river": "2018-11-23 23:53:45 +0800",
       "minecraft:lukewarm_ocean": "2018-11-25 18:32:59 +0800",
@@ -1828,6 +1871,12 @@
   "minecraft:recipes/combat/golden_leggings": {
     "criteria": {
       "has_gold_ingot": "2018-11-23 23:30:51 +0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/spruce_trapdoor": {
+    "criteria": {
+      "has_planks": "2018-12-08 20:08:35 +0800"
     },
     "done": true
   },
